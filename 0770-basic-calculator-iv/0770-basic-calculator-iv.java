@@ -58,7 +58,7 @@ class Poly {
             else
                 sb.append("*").append(B[j++]);
         while (i < A.length) sb.append("*").append(A[i++]);
-        while (j < B.length) sb.append("*").append(B[j++]);
+        while (j < B.length) sb.append("*").appen(B[j++]);
         return sb.substring(1).toString();
     }
 
