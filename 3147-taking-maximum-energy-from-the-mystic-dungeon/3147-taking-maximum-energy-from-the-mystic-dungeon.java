@@ -1,0 +1,13 @@
+class Solution {
+    public int maximumEnergy(int[] energy, int k) {
+        int[] dp = energy.clone();
+        for (int i = energy.length - 1 - k; i >= 0; --i) {
+            dp[i] += dp[i + k];
+        }
+        int max = Integer.MIN_VALUE;
+        for (int val : dp) {
+            if (val > max) max = val;
+        }
+        return max;
+    }
+}
