@@ -45,6 +45,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/dikshant-18/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,16 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/dikshant-18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
