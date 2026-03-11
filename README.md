@@ -24,6 +24,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dikshant-18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1592-rearrange-spaces-between-words](https://github.com/dikshant-18/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
