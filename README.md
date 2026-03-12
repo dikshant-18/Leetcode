@@ -25,11 +25,13 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dikshant-18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +54,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/dikshant-18/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +75,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
