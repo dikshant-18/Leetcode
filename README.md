@@ -7,6 +7,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/dikshant-18/Leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/dikshant-18/Leetcode/tree/main/1952-three-divisors/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/dikshant-18/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -94,4 +96,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/dikshant-18/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
