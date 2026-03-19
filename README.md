@@ -52,6 +52,7 @@ Problems that are solved in leetcode
 | [1592-rearrange-spaces-between-words](https://github.com/dikshant-18/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -100,4 +102,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
