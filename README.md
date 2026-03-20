@@ -9,6 +9,7 @@ Problems that are solved in leetcode
 | [1025-divisor-game](https://github.com/dikshant-18/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/dikshant-18/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/dikshant-18/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
