@@ -76,6 +76,7 @@ Problems that are solved in leetcode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -106,5 +107,10 @@ Problems that are solved in leetcode
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
