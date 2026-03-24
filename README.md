@@ -89,6 +89,7 @@ Problems that are solved in leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dikshant-18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -113,4 +114,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dikshant-18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
