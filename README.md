@@ -27,6 +27,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dikshant-18/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/dikshant-18/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -54,6 +55,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/dikshant-18/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
