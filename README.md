@@ -6,6 +6,7 @@ Problems that are solved in leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/dikshant-18/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/dikshant-18/Leetcode/tree/main/1952-three-divisors/) | Easy |
@@ -26,6 +27,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dikshant-18/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
