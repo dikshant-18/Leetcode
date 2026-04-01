@@ -84,10 +84,12 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/dikshant-18/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -122,8 +124,13 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/dikshant-18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 <!---LeetCode Topics End-->
