@@ -6,6 +6,7 @@ Problems that are solved in leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/dikshant-18/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -55,6 +56,7 @@ Problems that are solved in leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/dikshant-18/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -133,4 +135,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 <!---LeetCode Topics End-->
