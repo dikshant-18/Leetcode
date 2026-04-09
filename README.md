@@ -28,6 +28,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -106,6 +107,7 @@ Problems that are solved in leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dikshant-18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -113,6 +115,7 @@ Problems that are solved in leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dikshant-18/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Recursion
@@ -147,4 +150,9 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
