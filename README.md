@@ -32,6 +32,7 @@ Problems that are solved in leetcode
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -120,6 +121,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/dikshant-18/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dikshant-18/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Recursion
@@ -159,4 +161,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
