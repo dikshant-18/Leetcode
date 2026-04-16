@@ -36,6 +36,7 @@ Problems that are solved in leetcode
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/dikshant-18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/dikshant-18/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dikshant-18/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -96,6 +97,7 @@ Problems that are solved in leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/dikshant-18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dikshant-18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
