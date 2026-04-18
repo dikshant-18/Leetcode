@@ -27,6 +27,7 @@ Problems that are solved in leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshant-18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0733-flood-fill](https://github.com/dikshant-18/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -47,6 +48,7 @@ Problems that are solved in leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshant-18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
