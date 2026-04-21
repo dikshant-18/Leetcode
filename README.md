@@ -29,6 +29,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshant-18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0704-binary-search](https://github.com/dikshant-18/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/dikshant-18/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -174,5 +175,6 @@ Problems that are solved in leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/dikshant-18/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
