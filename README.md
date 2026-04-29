@@ -27,6 +27,7 @@ Problems that are solved in leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshant-18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/dikshant-18/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -49,6 +50,7 @@ Problems that are solved in leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshant-18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -58,6 +60,7 @@ Problems that are solved in leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -122,6 +125,7 @@ Problems that are solved in leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dikshant-18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -175,6 +179,7 @@ Problems that are solved in leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/dikshant-18/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
