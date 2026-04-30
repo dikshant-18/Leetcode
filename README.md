@@ -85,6 +85,7 @@ Problems that are solved in leetcode
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/dikshant-18/Leetcode/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
