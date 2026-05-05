@@ -7,6 +7,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0441-arranging-coins](https://github.com/dikshant-18/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/dikshant-18/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -183,6 +184,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0441-arranging-coins](https://github.com/dikshant-18/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/dikshant-18/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
