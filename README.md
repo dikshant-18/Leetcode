@@ -113,6 +113,7 @@ Problems that are solved in leetcode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dikshant-18/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/dikshant-18/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -162,6 +163,7 @@ Problems that are solved in leetcode
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dikshant-18/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Linked List
@@ -171,6 +173,7 @@ Problems that are solved in leetcode
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dikshant-18/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
