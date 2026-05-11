@@ -83,6 +83,7 @@ Problems that are solved in leetcode
 | [1021-remove-outermost-parentheses](https://github.com/dikshant-18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [1544-make-the-string-great](https://github.com/dikshant-18/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/dikshant-18/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/dikshant-18/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
@@ -159,6 +160,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/dikshant-18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1544-make-the-string-great](https://github.com/dikshant-18/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
