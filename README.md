@@ -59,6 +59,7 @@ Problems that are solved in leetcode
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/dikshant-18/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/dikshant-18/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Sorting
@@ -90,6 +91,7 @@ Problems that are solved in leetcode
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/dikshant-18/Leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/dikshant-18/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/dikshant-18/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/dikshant-18/Leetcode/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
