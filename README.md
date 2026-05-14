@@ -48,6 +48,7 @@ Problems that are solved in leetcode
 | [1854-maximum-population-year](https://github.com/dikshant-18/Leetcode/tree/main/1854-maximum-population-year/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dikshant-18/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dikshant-18/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dikshant-18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/dikshant-18/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dikshant-18/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -70,6 +71,7 @@ Problems that are solved in leetcode
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/dikshant-18/Leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dikshant-18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/dikshant-18/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -198,4 +200,8 @@ Problems that are solved in leetcode
 | [0441-arranging-coins](https://github.com/dikshant-18/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/dikshant-18/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dikshant-18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 <!---LeetCode Topics End-->
