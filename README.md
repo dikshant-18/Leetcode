@@ -41,6 +41,7 @@ Problems that are solved in leetcode
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/dikshant-18/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1436-destination-city](https://github.com/dikshant-18/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dikshant-18/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/dikshant-18/Leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -60,6 +61,7 @@ Problems that are solved in leetcode
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1436-destination-city](https://github.com/dikshant-18/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/dikshant-18/Leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/dikshant-18/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/dikshant-18/Leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -88,6 +90,7 @@ Problems that are solved in leetcode
 | [1021-remove-outermost-parentheses](https://github.com/dikshant-18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [1436-destination-city](https://github.com/dikshant-18/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1544-make-the-string-great](https://github.com/dikshant-18/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/dikshant-18/Leetcode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/dikshant-18/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
