@@ -192,6 +192,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/dikshant-18/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
