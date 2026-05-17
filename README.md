@@ -82,6 +82,7 @@ Problems that are solved in leetcode
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1603-design-parking-system](https://github.com/dikshant-18/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1854-maximum-population-year](https://github.com/dikshant-18/Leetcode/tree/main/1854-maximum-population-year/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1603-design-parking-system](https://github.com/dikshant-18/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +210,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dikshant-18/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/dikshant-18/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
