@@ -125,6 +125,7 @@ Problems that are solved in leetcode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dikshant-18/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dikshant-18/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -176,6 +177,7 @@ Problems that are solved in leetcode
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dikshant-18/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dikshant-18/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/dikshant-18/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -186,6 +188,7 @@ Problems that are solved in leetcode
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dikshant-18/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/dikshant-18/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/dikshant-18/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Bit Manipulation
@@ -214,4 +217,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/dikshant-18/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/dikshant-18/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
