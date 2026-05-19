@@ -33,6 +33,7 @@ Problems that are solved in leetcode
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/dikshant-18/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/dikshant-18/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/dikshant-18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
@@ -88,6 +89,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/dikshant-18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/dikshant-18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -145,6 +147,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/dikshant-18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/dikshant-18/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/dikshant-18/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
