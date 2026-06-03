@@ -59,6 +59,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dikshant-18/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshant-18/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/dikshant-18/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -80,6 +81,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/dikshant-18/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/dikshant-18/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1122-relative-sort-array](https://github.com/dikshant-18/Leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dikshant-18/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -90,6 +92,7 @@ Problems that are solved in leetcode
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dikshant-18/Leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/dikshant-18/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/dikshant-18/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/dikshant-18/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dikshant-18/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/dikshant-18/Leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
