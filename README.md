@@ -10,6 +10,7 @@ Problems that are solved in leetcode
 | [0441-arranging-coins](https://github.com/dikshant-18/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0908-smallest-range-i](https://github.com/dikshant-18/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/dikshant-18/Leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/dikshant-18/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/dikshant-18/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/dikshant-18/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/dikshant-18/Leetcode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -17,6 +18,7 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/dikshant-18/Leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/dikshant-18/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,4 +230,8 @@ Problems that are solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dikshant-18/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/dikshant-18/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
